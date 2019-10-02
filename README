@@ -1,0 +1,3 @@
+To run,
+
+python match_virusBRC12105.py >LogFile
