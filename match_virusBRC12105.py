@@ -2,7 +2,7 @@ import csv
 import re
 
 #The directory/path of input and output data files
-FilePath="/Users/szhou/mac2012_new/ViPR/BRC_12105/BRC-12105/test/"
+FilePath="/Users/YourID/"
 #FilePath="/YourFilePath/"
 
 
