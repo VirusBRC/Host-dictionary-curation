@@ -1,5 +1,5 @@
 To run,
 
-python match_virusBRC12104.py >LogFile
+python match_virusBRC12104.py >LogFile12104
 
-python match_virusBRC12105.py >LogFile
+python match_virusBRC12105.py >LogFile12105
